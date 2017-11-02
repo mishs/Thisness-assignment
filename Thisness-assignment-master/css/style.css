@@ -1,0 +1,80 @@
+.navbar {
+	background-color: #fff;
+	position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+.navbar a {
+	color: rgba(0,0,0,.5);
+}
+
+.bottom-line {
+	border-bottom: 2px solid #000;
+	margin-bottom: 13px;
+}
+.random-div {
+	padding:3rem 0
+}
+.millenial-driven {
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #212529;
+}
+
+.millenial-driven img {
+	border: 2px solid #e5e5e5;
+}
+
+.high-expectations {
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #212529;
+}
+
+.high-expectations img {
+	border: 2px solid #e5e5e5;
+}
+
+.full-attention {
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #212529;
+}
+
+.full-attention img {
+	border: 2px solid #e5e5e5;
+}
+
+.learn_more-link {
+	display: block;
+	position: relative;
+	border: 2px solid #dd2163;
+}
+
+.learn_more-link:hover {
+	background: rgba(221, 33, 99, 0.75);
+	transition: all ease 0.5s;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+}
+
+.learn_more img {
+	opacity: .33;
+}
+
+.learn-more-text {
+	text-align: left;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 2rem;
+}
+
+.learn_more a {
+	color: #dd2163;
+}
+	
